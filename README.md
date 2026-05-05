@@ -24,7 +24,7 @@
 
 1. **複製本專案：**
    ```bash
-   git clone [https://github.com/peacelandgroup/presentation.git](https://github.com/peacelandgroup/presentation.git)
+   git clone https://github.com/peacelandgroup/presentation.git
    cd presentation
 	```
 	
