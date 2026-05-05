@@ -24,5 +24,22 @@
 
 1. **複製本專案：**
    ```bash
-   git clone https://github.com/peacelandgroup/presentation.git
-   cd peacelandgroup
+   git clone [https://github.com/peacelandgroup/presentation.git](https://github.com/peacelandgroup/presentation.git)
+   cd presentation
+	```
+	
+2. **安裝必要套件：**
+   ```bash
+	pip install pygame
+	```
+
+3. **執行程式：**
+   ```bash
+	python presentation.py
+	```
+---
+
+## 操作說明
+* **[空白鍵]**：下一頁
+* **[滑鼠左鍵]**：下一頁
+* **[ESC]**：結束程式
