@@ -1,5 +1,5 @@
 # 安心置地 - 安心學 (Peace and Art) 專屬動態簡報程式
-
+您好, 我是 林水成
 這是一個使用 Python 撰寫的互動式動態簡報程式，專為介紹「安心置地集團」及其精品建案「安心學」所設計。程式採用 **Pygame** 引擎驅動，提供平滑的淡入特效與專業的視覺呈現，適合用於展間數位看板或產品演示。
 
 ## 核心結論 (Core Summary)
@@ -26,3 +26,6 @@
    ```bash
    git clone [https://github.com/](https://github.com/)peacelandgroup/presentation.git
    cd PeaceLand-Presentation-Python
+   
+   
+   git remote set-url origin https://agentrio@github.com/peacelandgroup/presentation.git
