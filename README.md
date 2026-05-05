@@ -24,8 +24,5 @@
 
 1. **複製本專案：**
    ```bash
-   git clone [https://github.com/](https://github.com/)peacelandgroup/presentation.git
-   cd PeaceLand-Presentation-Python
-   
-   
-   git remote set-url origin https://agentrio@github.com/peacelandgroup/presentation.git
+   git clone https://github.com/peacelandgroup/presentation.git
+   cd peacelandgroup
